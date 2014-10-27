@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+
+lodacref:3172 a lodac:OrganizationReference;
+   rdfs:label "横浜美術館"@ja;
+   dc:title "横浜美術館"@ja,
+     "よこはまびじゅつかん"@ja-hrkt;
+   lodac:address "神奈川県横浜市西区みなとみらい3-4-1"@ja;
+   lodac:genre "美術館・博物館"@ja;
+   lodac:isProviderOf lodacref:6131,
+     lodacref:5205;
+   lodac:tel "045-221-0305";
+   dc:hasFormat lodacref:3172.html,
+     lodacref:3172.rdf,
+     lodacref:3172.ttl,
+     lodacref:3172.trix,
+     lodacref:3172.trig,
+     lodacref:3172.json,
+     lodacref:3172.n3;
+   dc:identifier "jart:6yhbj001";
+   dc:isReferencedBy lodacid:3172;
+   dc:source <http://www.tulips.tsukuba.ac.jp/jart/mokuji/index.html>;
+   skos:prefLabel "横浜美術館"@ja;
+   vcard:locality "神奈川県"@ja;
+   vcard:postal-code "220-0012";
+   foaf:homepage <http://www.art-museum.city.yokohama.jp/cgi-bin/ymsii04.cgi?page=koho01&type=04&&html=/top.html> .

@@ -20,3 +20,5 @@ echo "setup LODAC"
 ./jena-fuseki-1.1.1/s-put http://localhost:3030/data/data http://lod.ac/id/81391 lod/lodac-ttl/81391.ttl
 ./jena-fuseki-1.1.1/s-put http://localhost:3030/data/data http://lod.ac/id/83095 lod/lodac-ttl/83095.ttl
 ./jena-fuseki-1.1.1/s-put http://localhost:3030/data/data http://lod.ac/id/486900 lod/lodac-ttl/486900.ttl
+
+./jena-fuseki-1.1.1/s-put http://localhost:3030/data/data http://lod.ac/id/3172 lod/lodac-ttl/ref3172.ttl
