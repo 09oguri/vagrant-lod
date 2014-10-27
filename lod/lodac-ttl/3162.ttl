@@ -1,0 +1,22 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:3162 a foaf:Organization;
+   rdfs:label "京都大学文学研究科図書館"@ja;
+   lodac:isProviderOf lodacid:5643;
+   dc:hasFormat lodacid:3162.html,
+     lodacid:3162.rdf,
+     lodacid:3162.ttl,
+     lodacid:3162.trix,
+     lodacid:3162.trig,
+     lodacid:3162.json,
+     lodacid:3162.n3;
+   dc:references lodacref:3162;
+   skos:prefLabel "京都大学文学研究科図書館"@ja;
+   foaf:name "京都大学文学研究科図書館"@ja .

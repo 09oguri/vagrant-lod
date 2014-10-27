@@ -1,0 +1,55 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:3400 a foaf:Organization;
+   rdfs:label "山種美術館(山種美術財団)"@ja;
+   lodac:isProviderOf lodacid:4936,
+     lodacid:5014,
+     lodacid:4873,
+     lodacid:5544,
+     lodacid:4841,
+     lodacid:4842,
+     lodacid:4629,
+     lodacid:5197,
+     lodacid:4633,
+     lodacid:4635,
+     lodacid:7315,
+     lodacid:4843,
+     lodacid:4631,
+     lodacid:5199,
+     lodacid:4634,
+     lodacid:7317,
+     lodacid:4628,
+     lodacid:4630,
+     lodacid:4632,
+     lodacid:4867,
+     lodacid:4978,
+     lodacid:4979,
+     lodacid:4982,
+     lodacid:4997,
+     lodacid:5198,
+     lodacid:5200,
+     lodacid:5201,
+     lodacid:5440,
+     lodacid:5558,
+     lodacid:7311,
+     lodacid:7312,
+     lodacid:7313,
+     lodacid:7314,
+     lodacid:7316;
+   dc:hasFormat lodacid:3400.html,
+     lodacid:3400.rdf,
+     lodacid:3400.ttl,
+     lodacid:3400.trix,
+     lodacid:3400.trig,
+     lodacid:3400.json,
+     lodacid:3400.n3;
+   dc:references lodacref:3400;
+   skos:prefLabel "山種美術館(山種美術財団)"@ja;
+   foaf:name "山種美術館(山種美術財団)"@ja .

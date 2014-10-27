@@ -1,0 +1,23 @@
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:486900 a lodac:Work;
+   rdfs:label "反古類あつめ仮帖石部"@ja;
+   dc:title "反古類あつめ仮帖石部"@ja;
+   crm:P55_has_current_location lodacid:3172;
+   dc:creator lodacid:1626;
+   dc:hasFormat lodacid:486900.html,
+     lodacid:486900.rdf,
+     lodacid:486900.ttl,
+     lodacid:486900.trix,
+     lodacid:486900.trig,
+     lodacid:486900.json,
+     lodacid:486900.n3;
+   dc:references lodacref:486900;
+   skos:prefLabel "反古類あつめ仮帖石部"@ja .

@@ -1,0 +1,24 @@
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:5289 a lodac:Work;
+   rdfs:label "肉筆画帖"@ja;
+   dc:title "肉筆画帖"@ja;
+   crm:P55_has_current_location lodacid:3786;
+   dc:creator lodacid:1626;
+   dc:hasFormat lodacid:5289.html,
+     lodacid:5289.rdf,
+     lodacid:5289.ttl,
+     lodacid:5289.trix,
+     lodacid:5289.trig,
+     lodacid:5289.json,
+     lodacid:5289.n3;
+   dc:references lodacref:5289,
+     lodacref:751647;
+   skos:prefLabel "肉筆画帖"@ja .

@@ -1,0 +1,225 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbpedia-ja:福澤諭吉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+<http://ja.dbpedia.org/resource/1936\u5E74>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:天王寺駅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:白隠慧鶴	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:天王寺区	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:天王寺動物園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:四天王寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:葛飾北斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:動物園前駅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia-ja:大阪市立美術館	rdf:type	dbpedia-owl:Place .
+@prefix schema:	<http://schema.org/> .
+dbpedia-ja:大阪市立美術館	rdf:type	schema:Place .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia-ja:大阪市立美術館	rdf:type	owl:Thing ,
+		dbpedia-owl:Building .
+@prefix ns5:	<http://dbpedia.org/ontology/Wikidata:> .
+dbpedia-ja:大阪市立美術館	rdf:type	ns5:Q532 ,
+		schema:Museum ,
+		dbpedia-owl:ArchitecturalStructure ,
+		dbpedia-owl:Museum .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia-ja:大阪市立美術館	rdfs:label	"\u5927\u962A\u5E02\u7ACB\u7F8E\u8853\u9928"@ja ;
+	rdfs:comment	"\u5927\u962A\u5E02\u7ACB\u7F8E\u8853\u9928\uFF08\u304A\u304A\u3055\u304B\u3057\u308A\u3064\u3073\u3058\u3085\u3064\u304B\u3093\uFF09\u306F\u3001\u65E5\u672C\u306E\u5927\u962A\u5E9C\u5927\u962A\u5E02\u5929\u738B\u5BFA\u533A\u306B\u3042\u308B\u7F8E\u8853\u9928\u3002\u9928\u306E\u6240\u5728\u5730\u306F\u4F4F\u53CB\u5BB6\u672C\u90B8\u306E\u3042\u3063\u305F\u5834\u6240\u3067\u3001\u4F4F\u53CB\u5BB6\u304B\u3089\u7F8E\u8853\u9928\u306E\u5EFA\u8A2D\u3092\u76EE\u7684\u306B\u65E5\u672C\u5EAD\u5712\u300C\u6176\u6CA2\u5712\u300D\u3068\u3068\u3082\u306B\u6577\u5730\u3092\u5BC4\u8D08\u3055\u308C\u30011936\u5E74\uFF08\u662D\u548C11\u5E74\uFF09\u306B\u958B\u9928\u3057\u305F\u3002\u540D\u8A89\u9928\u9577\uFF08\u524D\u9928\u9577\uFF09\u306F\u84D1\u8C4A\u3002"@ja .
+@prefix ns7:	<http://www.wikipediaontology.org/instance/> .
+dbpedia-ja:大阪市立美術館	owl:sameAs	ns7:大阪市立美術館 .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbpedia-ja:大阪市立美術館	owl:sameAs	dbpedia-ko:오사카_시립_미술관 .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category-ja:	<http://ja.dbpedia.org/resource/Category:> .
+dbpedia-ja:大阪市立美術館	dcterms:subject	category-ja:大阪市の博物館 ,
+		category-ja:昭和時代戦前の建築 ,
+		category-ja:大阪府の美術館 ,
+		category-ja:大阪府の重要文化財 ,
+		category-ja:占領軍が接収した日本の施設 ,
+		category-ja:天王寺区 ;
+	dbpedia-owl:wikiPageID	55202 ;
+	dbpedia-owl:wikiPageRevisionID	48476200 ;
+	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東急ハンズ ,
+		category-ja:大阪市の博物館 ,
+		dbpedia-ja:吉原治良 ,
+		dbpedia-ja:茶臼山町 ,
+		dbpedia-ja:王維 ,
+		dbpedia-ja:橋本関雪 ,
+		dbpedia-ja:仏教美術 ,
+		dbpedia-ja:蓑豊 ,
+		category-ja:天王寺区 ,
+		dbpedia-ja:安井仲治 ,
+		dbpedia-ja:国立国際美術館 ,
+		dbpedia-ja:エトルリア ,
+		dbpedia-ja:伊藤正文 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Osaka_municipal_museum_of_art02s3200.jpg> ,
+		dbpedia-ja:田万コレクション ,
+		dbpedia-ja:上村松園 ,
+		dbpedia-ja:赤松麟作 ,
+		dbpedia-ja:鍋井克之 ,
+		dbpedia-ja:葛飾北斎 ,
+		dbpedia-ja:美術館 ,
+		<http://ja.dbpedia.org/resource/5\u67081\u65E5> ,
+		dbpedia-ja:鳥海青児 ,
+		dbpedia-ja:西日本旅客鉄道 ,
+		dbpedia-ja:大阪市営地下鉄谷町線 ,
+		dbpedia-ja:慶沢園 ,
+		<http://ja.dbpedia.org/resource/2004\u5E74> ,
+		dbpedia-ja:近代美術 ,
+		dbpedia-ja:米フツ ,
+		dbpedia-ja:大阪市営地下鉄御堂筋線 ,
+		dbpedia-ja:天王寺駅 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Osaka_municipal_museum_of_art01s3200.jpg> ,
+		dbpedia-ja:海上静一 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Keitakuen01s3000.jpg> ,
+		dbpedia-ja:董其昌 ,
+		dbpedia-ja:大阪大学 ,
+		dbpedia-ja:陶磁 ,
+		category-ja:大阪府の美術館 ,
+		dbpedia-ja:日本庭園 ,
+		dbpedia-ja:村山槐多 ,
+		category-ja:大阪府の重要文化財 ,
+		dbpedia-ja:大阪環状線 ,
+		dbpedia-ja:歴史主義建築 ,
+		<http://ja.dbpedia.org/resource/1936\u5E74> ,
+		dbpedia-ja:岸駒 ,
+		dbpedia-ja:天王寺区 ,
+		dbpedia-ja:島成園 ,
+		dbpedia-ja:岡田米山人 ,
+		dbpedia-ja:大阪府 ,
+		dbpedia-ja:佐伯祐三 ,
+		dbpedia-ja:現代美術 ,
+		dbpedia-ja:蔵屋敷 ,
+		dbpedia-ja:漆工 ,
+		dbpedia-ja:ゲルハルト・リヒター ,
+		dbpedia-ja:大阪阿部野橋駅 ,
+		dbpedia-ja:金工 ,
+		<http://ja.dbpedia.org/resource/\u4E2D\u4E4B\u5CF6_(\u5927\u962A\u5E9C)> ,
+		dbpedia-ja:住友家 ,
+		dbpedia-ja:狩野宗秀 ,
+		dbpedia-ja:池大雅 ,
+		dbpedia-ja:近鉄南大阪線 ,
+		dbpedia-ja:日本画 ,
+		category-ja:占領軍が接収した日本の施設 ,
+		dbpedia-ja:コンスタンティン・ブランクーシ ,
+		dbpedia-ja:児玉希望 ,
+		category-ja:昭和時代戦前の建築 ,
+		dbpedia-ja:北野恒富 ,
+		dbpedia-ja:大阪市 ,
+		dbpedia-ja:蘇軾 ,
+		dbpedia-ja:アメデオ・モディリアーニ ,
+		dbpedia-ja:尾形光琳 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.inlifeweb.com/reports/report_527.html> ,
+		<http://ci.nii.ac.jp/els/contents?id=ART0004792846&type=pdf&host=cinii&lang=jp> ,
+		<http://ci.nii.ac.jp/lognavi?name=nels&lang=ja&type=pdf&id=ART0004792848> ,
+		<http://www.city.osaka.lg.jp/yutoritomidori/page/0000009428.html> ,
+		<http://ci.nii.ac.jp/vol_issue/nels/AN00079427/ISS0000215363_ja.html> ,
+		<http://www.osaka-art-museum.jp/> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia-ja:大阪市立美術館	foaf:name	"\u5927\u962A\u5E02\u7ACB\u7F8E\u8853\u9928"@ja .
+@prefix prop-ja:	<http://ja.dbpedia.org/property/> .
+dbpedia-ja:大阪市立美術館	prop-ja:名称	"\u5927\u962A\u5E02\u7ACB\u7F8E\u8853\u9928"@ja ;
+	prop-ja:画像	320 ;
+	prop-ja:延床面積	7006 .
+@prefix template-ja:	<http://ja.dbpedia.org/resource/Template:> .
+dbpedia-ja:大阪市立美術館	prop-ja:wikiPageUsesTemplate	template-ja:Commons ,
+		template-ja:博物館 ;
+	prop-ja:所在地	"\u5927\u962A\u5E9C\u5927\u962A\u5E02\u5929\u738B\u5BFA\u533A\u8336\u81FC\u5C71\u753A1-82"@ja ;
+	prop-ja:所在地郵便番号	543 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia-ja:大阪市立美術館	prop-ja:開館	"--05-01"^^xsd:gMonthDay ;
+	prop-ja:専門分野	"\u65E5\u672C\u7F8E\u8853\u3001\u6771\u6D0B\u7F8E\u8853"@ja ;
+	prop-ja:事業主体	"\u5927\u962A\u5E02"@ja ;
+	dbpedia-owl:location	dbpedia-ja:大阪府 ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/2/2e/Osaka_municipal_museum_of_art01s3200.jpg> ;
+	dbpedia-owl:postalCode	"543-0063"@ja ;
+	dbpedia-owl:operatedBy	dbpedia-ja:大阪市 .
+@prefix wiki-ja:	<http://ja.wikipedia.org/wiki/> .
+dbpedia-ja:大阪市立美術館	foaf:isPrimaryTopicOf	wiki-ja:大阪市立美術館 ;
+	dbpedia-owl:abstract	"\u5927\u962A\u5E02\u7ACB\u7F8E\u8853\u9928\uFF08\u304A\u304A\u3055\u304B\u3057\u308A\u3064\u3073\u3058\u3085\u3064\u304B\u3093\uFF09\u306F\u3001\u65E5\u672C\u306E\u5927\u962A\u5E9C\u5927\u962A\u5E02\u5929\u738B\u5BFA\u533A\u306B\u3042\u308B\u7F8E\u8853\u9928\u3002\u9928\u306E\u6240\u5728\u5730\u306F\u4F4F\u53CB\u5BB6\u672C\u90B8\u306E\u3042\u3063\u305F\u5834\u6240\u3067\u3001\u4F4F\u53CB\u5BB6\u304B\u3089\u7F8E\u8853\u9928\u306E\u5EFA\u8A2D\u3092\u76EE\u7684\u306B\u65E5\u672C\u5EAD\u5712\u300C\u6176\u6CA2\u5712\u300D\u3068\u3068\u3082\u306B\u6577\u5730\u3092\u5BC4\u8D08\u3055\u308C\u30011936\u5E74\uFF08\u662D\u548C11\u5E74\uFF09\u306B\u958B\u9928\u3057\u305F\u3002\u540D\u8A89\u9928\u9577\uFF08\u524D\u9928\u9577\uFF09\u306F\u84D1\u8C4A\u3002"@ja ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Osaka_municipal_museum_of_art01s3200.jpg/200px-Osaka_municipal_museum_of_art01s3200.jpg> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia-ja:大阪市立美術館	prov:wasDerivedFrom	<http://ja.wikipedia.org/wiki/\u5927\u962A\u5E02\u7ACB\u7F8E\u8853\u9928?oldid=48476200> .
+dbpedia-ja:村山槐多	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:尾形光琳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:住友家	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:興福寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:佐伯祐三	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:一乗寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:小野竹喬	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:園城寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:天王寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:円珍	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:歌川国芳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:美術館の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:宝塚大学	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:松屋町筋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:歴史主義建築	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:ジュゼッペ・アルチンボルド	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:大阪府	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+<http://ja.dbpedia.org/resource/\u7530\u4E2D\u6566\u5B50_(\u753B\u5BB6)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:天王寺公園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:孝恩寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+<http://ja.dbpedia.org/resource/\u8336\u81FC\u5C71\u53E4\u58B3_(\u5927\u962A\u5E02)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:狩野光信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:谷文晁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:大阪市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:ジャン・アルプ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:島成園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:黄不動	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:エンジョイエコカード	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:小川破笠	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:米フツ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:木村蒹葭堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+<http://ja.dbpedia.org/resource/\u5927\u962A\u5546\u79D1\u5927\u5B66_(\u65E7\u5236)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:野田九浦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:角田文衞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:柳沢淇園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:岡田米山人	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:四天王寺本坊庭園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:慶沢園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:フェルメールの作品	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:大岡春卜	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:岸駒	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:上野直昭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:董其昌	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:住友吉左衛門	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:大阪周遊パス	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:小林太市郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:橋本関雪	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:日本の書道史	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:百鬼夜行絵巻	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:壽法寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:中国の筆跡一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:美術研究所	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:日本南画院	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:礒田湖龍斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:北野恒富	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:後藤仁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:中村大三郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:佐々木丞平	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:鈴木年基	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+<http://ja.dbpedia.org/resource/1930\u5E74\u4EE3\u306E\u5EFA\u7BC9>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:小河孝浩	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:前田泰次	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:並河靖之	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:狩野宗秀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:原在中	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:曽我二直菴	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:平木浮世絵美術館_UKIYO-e_TOKYO	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:前田富士男	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:望月信成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:大阪天王寺美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 ;
+	dbpedia-owl:wikiPageRedirects	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:大阪市立天王寺美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 ;
+	dbpedia-owl:wikiPageRedirects	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:天王寺美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 ;
+	dbpedia-owl:wikiPageRedirects	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:あべのハルカス	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+wiki-ja:大阪市立美術館	foaf:primaryTopic	dbpedia-ja:大阪市立美術館 .
+<http://ja.dbpedia.org/data/\u5927\u962A\u5E02\u7ACB\u7F8E\u8853\u9928.n3>	rdf:type	foaf:Document ;
+	foaf:primaryTopic	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:興福寺の仏像	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:関山美穂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+<http://ja.dbpedia.org/resource/\u30B5\u30C4\u30AD_(\u30AA\u30E9\u30F3\u30A6\u30FC\u30BF\u30F3)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+<http://ja.dbpedia.org/resource/\u4F50\u85E4\u96C5\u5F66_(\u7F8E\u8853\u53F2\u5BB6)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .
+dbpedia-ja:四天王寺八角亭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:大阪市立美術館 .

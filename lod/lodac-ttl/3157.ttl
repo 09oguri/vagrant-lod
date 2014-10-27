@@ -1,0 +1,76 @@
+@prefix dbpediajp: <http://dbpedia.jp/resource/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:3157 a foaf:Organization;
+   rdfs:label "大阪市立美術館"@ja;
+   lodac:isProviderOf lodacid:869550,
+     lodacid:869551,
+     lodacid:869552,
+     lodacid:869553,
+     lodacid:869554,
+     lodacid:869555,
+     lodacid:869556,
+     lodacid:869557,
+     lodacid:869558,
+     lodacid:869559,
+     lodacid:869560,
+     lodacid:869561,
+     lodacid:869562,
+     lodacid:869563,
+     lodacid:869564,
+     lodacid:869565,
+     lodacid:869566,
+     lodacid:869567,
+     lodacid:869568,
+     lodacid:869569,
+     lodacid:869570,
+     lodacid:869571,
+     lodacid:869572,
+     lodacid:869573,
+     lodacid:869574,
+     lodacid:869575,
+     lodacid:869576,
+     lodacid:869577,
+     lodacid:869578,
+     lodacid:869579,
+     lodacid:869580,
+     lodacid:869581,
+     lodacid:869582,
+     lodacid:869583,
+     lodacid:4444,
+     lodacid:6375,
+     lodacid:5040,
+     lodacid:4443,
+     lodacid:4477,
+     lodacid:4427,
+     lodacid:4476,
+     lodacid:4478,
+     lodacid:4475,
+     lodacid:4473,
+     lodacid:4474,
+     lodacid:5900,
+     lodacid:6372,
+     lodacid:6373,
+     lodacid:6374,
+     lodacid:6377,
+     lodacid:6378;
+   dc:hasFormat lodacid:3157.html,
+     lodacid:3157.rdf,
+     lodacid:3157.ttl,
+     lodacid:3157.trix,
+     lodacid:3157.trig,
+     lodacid:3157.json,
+     lodacid:3157.n3;
+   dc:references lodacref:8084,
+     dbpediajp:%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8,
+     <http://ja.dbpedia.org/resource/大阪市立美術館>,
+     lodacref:3157;
+   skos:prefLabel "大阪市立美術館"@ja;
+   foaf:name "大阪市立美術館"@ja .

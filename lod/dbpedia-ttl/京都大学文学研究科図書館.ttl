@@ -1,0 +1,5 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://ja.dbpedia.org/data/\u4EAC\u90FD\u5927\u5B66\u6587\u5B66\u7814\u7A76\u79D1\u56F3\u66F8\u9928.n3>	rdf:type	foaf:Document .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+<http://ja.dbpedia.org/data/\u4EAC\u90FD\u5927\u5B66\u6587\u5B66\u7814\u7A76\u79D1\u56F3\u66F8\u9928.n3>	foaf:primaryTopic	dbpedia-ja:京都大学文学研究科図書館 .

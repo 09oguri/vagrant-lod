@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:81310 a lodac:Work;
+   rdfs:label "絹本著色二美人図&lt;葛飾北斎筆/&gt;"@ja;
+   dc:title "絹本著色二美人図&lt;葛飾北斎筆/&gt;"@ja;
+   dc:creator lodacid:1626;
+   dc:hasFormat lodacid:81310.html,
+     lodacid:81310.rdf,
+     lodacid:81310.ttl,
+     lodacid:81310.trix,
+     lodacid:81310.trig,
+     lodacid:81310.json,
+     lodacid:81310.n3;
+   dc:references lodacref:81310;
+   skos:prefLabel "絹本著色二美人図&lt;葛飾北斎筆/&gt;"@ja .

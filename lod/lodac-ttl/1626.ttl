@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:1626 a foaf:Person;
+   rdfs:label "葛飾北斎"@ja;
+   lodac:creates lodacid:81310,
+     lodacid:81391,
+     lodacid:83095,
+     lodacid:486900,
+     lodacid:5643,
+     lodacid:5749,
+     lodacid:4382,
+     lodacid:4405,
+     lodacid:5289,
+     lodacid:6373,
+     lodacid:7311,
+     lodacid:7312;
+   dc:hasFormat lodacid:1626.html,
+     lodacid:1626.rdf,
+     lodacid:1626.ttl,
+     lodacid:1626.trix,
+     lodacid:1626.trig,
+     lodacid:1626.json,
+     lodacid:1626.n3;
+   dc:references lodacref:1626;
+   skos:prefLabel "葛飾北斎"@ja;
+   foaf:name "葛飾北斎"@ja .

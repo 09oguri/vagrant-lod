@@ -1,0 +1,23 @@
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:6373 a lodac:Work;
+   rdfs:label "潮干狩図"@ja;
+   dc:title "潮干狩図"@ja;
+   crm:P55_has_current_location lodacid:3157;
+   dc:creator lodacid:1626;
+   dc:hasFormat lodacid:6373.html,
+     lodacid:6373.rdf,
+     lodacid:6373.ttl,
+     lodacid:6373.trix,
+     lodacid:6373.trig,
+     lodacid:6373.json,
+     lodacid:6373.n3;
+   dc:references lodacref:6373;
+   skos:prefLabel "潮干狩図"@ja .

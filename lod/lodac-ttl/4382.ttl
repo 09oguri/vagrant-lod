@@ -1,0 +1,23 @@
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:4382 a lodac:Work;
+   rdfs:label "富嶽三十六景"@ja;
+   dc:title "富嶽三十六景"@ja;
+   crm:P55_has_current_location lodacid:3786;
+   dc:creator lodacid:1626;
+   dc:hasFormat lodacid:4382.html,
+     lodacid:4382.rdf,
+     lodacid:4382.ttl,
+     lodacid:4382.trix,
+     lodacid:4382.trig,
+     lodacid:4382.json,
+     lodacid:4382.n3;
+   dc:references lodacref:4382;
+   skos:prefLabel "富嶽三十六景"@ja .

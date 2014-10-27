@@ -1,0 +1,166 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbpedia-ja:恵比寿駅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:東洲斎写楽	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:前田青邨	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:古今和歌集	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:小林古径	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:村上華岳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:本阿弥光悦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:酒井抱一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:東山魁夷	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:竹内栖鳳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:土田麦僊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:速水御舟	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:岩佐又兵衛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:企業博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:谷口吉郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:内堀通り	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:福田平八郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:伊東深水	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:内田あぐり	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbpedia-ja:山種美術館	rdf:type	schema:Place ,
+		dbpedia-owl:Place ,
+		dbpedia-owl:Building ,
+		dbpedia-owl:ArchitecturalStructure ,
+		dbpedia-owl:Museum .
+@prefix ns4:	<http://dbpedia.org/ontology/Wikidata:> .
+dbpedia-ja:山種美術館	rdf:type	ns4:Q532 .
+@prefix ns5:	<http://www.opengis.net/gml/> .
+dbpedia-ja:山種美術館	rdf:type	ns5:_Feature .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia-ja:山種美術館	rdf:type	owl:Thing ,
+		schema:Museum .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia-ja:山種美術館	rdfs:label	"\u5C71\u7A2E\u7F8E\u8853\u9928"@ja ;
+	rdfs:comment	"\u5C71\u7A2E\u7F8E\u8853\u9928\uFF08\u3084\u307E\u305F\u306D\u3073\u3058\u3085\u3064\u304B\u3093\uFF09\u306F\u3001\u6771\u4EAC\u90FD\u6E0B\u8C37\u533A\u5E83\u5C3E\u306B\u3042\u308B\u65E5\u672C\u753B\u5C02\u9580\u306E\u7F8E\u8853\u9928\u3067\u3042\u308A\u3001\u5C71\u7A2E\u7F8E\u8853\u8CA1\u56E3\u306B\u3088\u3063\u3066\u7BA1\u7406\u30FB\u904B\u55B6\u3055\u308C\u3066\u3044\u308B\u3002"@ja .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia-ja:山種美術館	owl:sameAs	dbpedia:Yamatane_Museum .
+@prefix ns9:	<http://www.wikipediaontology.org/instance/> .
+dbpedia-ja:山種美術館	owl:sameAs	ns9:山種美術館 ,
+		<http://fr.dbpedia.org/resource/Mus\u00E9e_d\u0027art_Yamatane> .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category-ja:	<http://ja.dbpedia.org/resource/Category:> .
+dbpedia-ja:山種美術館	dcterms:subject	category-ja:東京都の美術館 ,
+		category-ja:渋谷区の教育 ,
+		category-ja:東京都の登録博物館 ,
+		category-ja:渋谷区の建築物 ;
+	dbpedia-owl:wikiPageID	180427 ;
+	dbpedia-owl:wikiPageRevisionID	49414506 ;
+	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:佐藤太清 ,
+		category-ja:東京都の美術館 ,
+		dbpedia-ja:山崎種二 ,
+		dbpedia-ja:院展 ,
+		dbpedia-ja:椿椿山 ,
+		dbpedia-ja:川端龍子 ,
+		dbpedia-ja:昭和 ,
+		dbpedia-ja:恵比寿駅 ,
+		dbpedia-ja:奥村土牛 ,
+		dbpedia-ja:山種証券 ,
+		dbpedia-ja:速水御舟 ,
+		dbpedia-ja:創画展 ,
+		<http://ja.dbpedia.org/resource/10\u6708> ,
+		dbpedia-ja:美術館 ,
+		category-ja:渋谷区の教育 ,
+		category-ja:渋谷区の建築物 ,
+		<http://ja.dbpedia.org/resource/2009\u5E74> ,
+		dbpedia-ja:竹内栖鳳 ,
+		<http://ja.dbpedia.org/resource/\u4E09\u756A\u753A_(\u5343\u4EE3\u7530\u533A)> ,
+		<http://ja.dbpedia.org/resource/1966\u5E74> ,
+		dbpedia-ja:日本橋兜町 ,
+		dbpedia-ja:平成 ,
+		dbpedia-ja:岩佐又兵衛 ,
+		dbpedia-ja:渋谷区 ,
+		dbpedia-ja:千代田区 ,
+		category-ja:東京都の登録博物館 ,
+		<http://ja.dbpedia.org/resource/1998\u5E74> ,
+		dbpedia-ja:重要文化財 ,
+		dbpedia-ja:日本画 ,
+		dbpedia-ja:日本美術展覧会 ,
+		dbpedia-ja:東京メトロ日比谷線 ,
+		<http://ja.dbpedia.org/resource/\u5E83\u5C3E_(\u6E0B\u8C37\u533A)> ,
+		dbpedia-ja:東京都 ,
+		<http://ja.dbpedia.org/resource/7\u6708> ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.yamatane-museum.or.jp/> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia-ja:山種美術館	foaf:name	"\u5C71\u7A2E\u7F8E\u8853\u9928"@ja ,
+		"Yamatane Museum of Art"@ja ;
+	foaf:nick	"\u5FA1\u821F\u7F8E\u8853\u9928"@ja .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbpedia-ja:山種美術館	georss:point	"35.65317 139.7137"@ja ;
+	foaf:homepage	<http://www.yamatane-museum.or.jp/> .
+@prefix prop-ja:	<http://ja.dbpedia.org/property/> .
+dbpedia-ja:山種美術館	prop-ja:名称	"\u5C71\u7A2E\u7F8E\u8853\u9928"@ja ,
+		"Yamatane Museum of Art"@ja ;
+	prop-ja:画像	"Yamatane Museum Tokyo.jpg"@ja ;
+	prop-ja:愛称	"\u5FA1\u821F\u7F8E\u8853\u9928"@ja .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbpedia-ja:山種美術館	geo:lat	"35.6532"^^xsd:float .
+@prefix template-ja:	<http://ja.dbpedia.org/resource/Template:> .
+dbpedia-ja:山種美術館	prop-ja:wikiPageUsesTemplate	template-ja:博物館 ;
+	prop-ja:所在地	"\u6771\u4EAC\u90FD\u6E0B\u8C37\u533A\u5E83\u5C3E3-12-36"@ja ;
+	prop-ja:所在地郵便番号	150 ;
+	prop-ja:開館	1966 ;
+	geo:long	"139.714"^^xsd:float ;
+	prop-ja:管理運営	"\u5C71\u7A2E\u7F8E\u8853\u8CA1\u56E3"@ja ;
+	prop-ja:url	<http://www.yamatane-museum.or.jp/> ;
+	prop-ja:imagesize	300 ;
+	prop-ja:専門分野	"\u7F8E\u8853\u54C1"@ja ;
+	prop-ja:館長	"\u5C71\uFA11\u5999\u5B50"@ja ;
+	dbpedia-owl:location	dbpedia-ja:東京都 ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/d/d0/Yamatane_Museum_Tokyo.jpg> ;
+	dbpedia-owl:postalCode	"150-0012"@ja .
+@prefix wiki-ja:	<http://ja.wikipedia.org/wiki/> .
+dbpedia-ja:山種美術館	foaf:isPrimaryTopicOf	wiki-ja:山種美術館 ;
+	dbpedia-owl:abstract	"\u5C71\u7A2E\u7F8E\u8853\u9928\uFF08\u3084\u307E\u305F\u306D\u3073\u3058\u3085\u3064\u304B\u3093\uFF09\u306F\u3001\u6771\u4EAC\u90FD\u6E0B\u8C37\u533A\u5E83\u5C3E\u306B\u3042\u308B\u65E5\u672C\u753B\u5C02\u9580\u306E\u7F8E\u8853\u9928\u3067\u3042\u308A\u3001\u5C71\u7A2E\u7F8E\u8853\u8CA1\u56E3\u306B\u3088\u3063\u3066\u7BA1\u7406\u30FB\u904B\u55B6\u3055\u308C\u3066\u3044\u308B\u3002"@ja ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yamatane_Museum_Tokyo.jpg/200px-Yamatane_Museum_Tokyo.jpg> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia-ja:山種美術館	prov:wasDerivedFrom	<http://ja.wikipedia.org/wiki/\u5C71\u7A2E\u7F8E\u8853\u9928?oldid=49414506> .
+dbpedia-ja:美術館の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:横山操	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:奥田元宋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:堅山南風	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:奥村土牛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:工藤甲人	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:山本丘人	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:美人画	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:安珍・清姫伝説	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:松岡映丘	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:佐藤晨	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+<http://ja.dbpedia.org/resource/\u5E02\u5DDD\u733F\u4E4B\u52A9_(4\u4EE3\u76EE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:畠中光享	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:椿椿山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:上村松篁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:山崎種二	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:平福百穂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:伊藤小坡	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+<http://ja.dbpedia.org/resource/\u5E83\u5C3E_(\u6E0B\u8C37\u533A)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:野口小蘋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:福田豊四郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:佐藤太清	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:西田俊英	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:荒木十畝	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:東京都の観光地	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:岡村倫行	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:西郷孤月	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:星野眞吾	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:日本設計	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:岩澤重夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:池田輝方	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:平松礼二	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:土佐光吉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:今村紫紅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:小茂田青樹	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:岡本秋暉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:根津公一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:ぶらぶら美術・博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:船水徳雄	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:酒井鶯蒲	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+dbpedia-ja:岸連山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+wiki-ja:山種美術館	foaf:primaryTopic	dbpedia-ja:山種美術館 .
+dbpedia-ja:AMAZING_BANG_FRONT	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:山種美術館 .
+<http://ja.dbpedia.org/data/\u5C71\u7A2E\u7F8E\u8853\u9928.n3>	rdf:type	foaf:Document ;
+	foaf:primaryTopic	dbpedia-ja:山種美術館 .

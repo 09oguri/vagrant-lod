@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix lodac: <http://lod.ac/ns/lodac#> .
+@prefix lodacid: <http://lod.ac/id/> .
+@prefix lodacref: <http://lod.ac/ref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+lodacid:81391 a lodac:Work;
+   rdfs:label "紙本墨画日新除魔図(葛飾北斎筆/)"@ja;
+   dc:title "紙本墨画日新除魔図(葛飾北斎筆/)"@ja;
+   dc:creator lodacid:1626;
+   dc:hasFormat lodacid:81391.html,
+     lodacid:81391.rdf,
+     lodacid:81391.ttl,
+     lodacid:81391.trix,
+     lodacid:81391.trig,
+     lodacid:81391.json,
+     lodacid:81391.n3;
+   dc:references lodacref:81391;
+   skos:prefLabel "紙本墨画日新除魔図(葛飾北斎筆/)"@ja .

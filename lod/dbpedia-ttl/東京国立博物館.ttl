@@ -1,0 +1,1310 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbpedia-ja:雪舟	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岡本太郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:文部科学省	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上野駅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:富士山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:福澤諭吉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:マニ教	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:文部省	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:慶應義塾大学	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:三木眞一郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浅井忠	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:みうらじゅん	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上野	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:朱子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鹿児島市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:榊原康政	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:台東区	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:絵画	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:フィンセント・ファン・ゴッホ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/1897\u5E74>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:書籍	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:足利義政	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野島昭生	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:十二神将	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小堀政一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:考古学	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:書経	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/1974\u5E74>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野派	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:平成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:内海賢二	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:池田秀一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:阿弥陀三尊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:猩猩緋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国風文化	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鶯谷駅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:アレクサンドロス3世	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:博物館動物園駅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:香取秀真	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浮世絵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:武士	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:花見	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川広重	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u6D45\u8349\u99C5_(\u9996\u90FD\u570F\u65B0\u90FD\u5E02\u9244\u9053)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東武ワールドスクウェア	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国立歴史民俗博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国立西洋美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia-ja:東京国立博物館	rdf:type	owl:Thing ,
+		dbpedia-owl:ArchitecturalStructure .
+@prefix schema:	<http://schema.org/> .
+dbpedia-ja:東京国立博物館	rdf:type	schema:Museum .
+@prefix ns5:	<http://dbpedia.org/ontology/Wikidata:> .
+dbpedia-ja:東京国立博物館	rdf:type	ns5:Q532 ,
+		dbpedia-owl:Place ,
+		dbpedia-owl:Museum ,
+		schema:Place ,
+		dbpedia-owl:Building .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia-ja:東京国立博物館	rdfs:label	"\u6771\u4EAC\u56FD\u7ACB\u535A\u7269\u9928"@ja ;
+	rdfs:comment	"\u6771\u4EAC\u56FD\u7ACB\u535A\u7269\u9928\uFF08\u3068\u3046\u304D\u3087\u3046\u3053\u304F\u308A\u3064\u306F\u304F\u3076\u3064\u304B\u3093\uFF09\u306F\u3001\u65E5\u672C\u3068\u6771\u6D0B\u306E\u6587\u5316\u8CA1\uFF08\u7F8E\u8853\u54C1\u3001\u8003\u53E4\u907A\u7269\u306A\u3069\uFF09\u306E\u53CE\u96C6\u4FDD\u7BA1\u3001\u5C55\u793A\u516C\u958B\u3001\u8ABF\u67FB\u7814\u7A76\u3001\u666E\u53CA\u306A\u3069\u3092\u76EE\u7684\u3068\u3057\u3066\u72EC\u7ACB\u884C\u653F\u6CD5\u4EBA\u56FD\u7ACB\u6587\u5316\u8CA1\u6A5F\u69CB\u304C\u904B\u55B6\u3059\u308B\u535A\u7269\u9928\u3067\u3042\u308B\u3002 1872\u5E74\uFF08\u660E\u6CBB5\u5E74\uFF09\u306B\u5275\u8A2D\u3055\u308C\u305F\u3001\u65E5\u672C\u6700\u53E4\u306E\u535A\u7269\u9928\u3067\u3042\u308B\u3002\u6771\u4EAC\u90FD\u53F0\u6771\u533A\u306E\u4E0A\u91CE\u6069\u8CDC\u516C\u5712\u5185\u306B\u3042\u308B\u3002\u672C\u9928\u3001\u8868\u6176\u9928\u3001 \u6771\u6D0B\u9928\u3001\u5E73\u6210\u9928\u3001\u6CD5\u9686\u5BFA\u5B9D\u7269\u9928\u306E5\u3064\u306E\u5C55\u793A\u9928\u3068\u8CC7\u6599\u9928\u305D\u306E\u4ED6\u306E\u65BD\u8A2D\u304B\u3089\u306A\u308B\u30022012\u5E743\u670831\u65E5\u6642\u70B9\u3067\u3001\u56FD\u5B9D87\u4EF6\u3001\u91CD\u8981\u6587\u5316\u8CA1631\u4EF6\u3092\u542B\u3080\u53CE\u8535\u54C1\u306E\u7DCF\u6570\u306F113,897\u4EF6\u3067\u3001\u3053\u308C\u3068\u306F\u5225\u306B\u3001\u56FD\u5B9D50\u4EF6\u3001\u91CD\u8981\u6587\u5316\u8CA1252\u4EF6\u3092\u542B\u3080\u7DCF\u65702,689\u4EF6\u306E\u5BC4\u8A17\u54C1\u3092\u53CE\u8535\u3057\u3066\u3044\u308B\u3002\u3053\u306E\u3046\u3061\u9673\u5217\u7DCF\u4EF6\u6570\u306F\u7D047,500\u4EF6\u3067\u3042\u308B\u30022011\u5E74\u5EA6\u306E\u6765\u9928\u8005\u6570\u306F\u7D04176\u4E07\u4EBA\u3002"@ja .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	dbpedia-es:Museo_Nacional_de_Tokio .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	dbpedia-ko:도쿄_국립박물관 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	dbpedia-pl:Muzeum_Narodowe_w_Tokio .
+@prefix dbpedia-ru:	<http://ru.dbpedia.org/resource/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	dbpedia-ru:Токийский_национальный_музей .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	dbpedia-de:Nationalmuseum_Tokio .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	dbpedia-pt:Museu_Nacional_de_Tóquio .
+@prefix ns13:	<http://www.wikipediaontology.org/instance/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	ns13:東京国立博物館 .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	dbpedia:Tokyo_National_Museum .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	dbpedia-fr:Musée_national_de_Tokyo .
+@prefix ns16:	<http://www.wikipediaontology.org/class/> .
+dbpedia-ja:東京国立博物館	owl:sameAs	ns16:東京国立博物館 .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category-ja:	<http://ja.dbpedia.org/resource/Category:> .
+dbpedia-ja:東京国立博物館	dcterms:subject	category-ja:江戸時代の建築 ,
+		<http://ja.dbpedia.org/resource/Category:\u65E5\u672C\u306E\u56FD\u5B9D_(\u5DE5\u82B8\u54C1)> ,
+		category-ja:東京都の美術館 ,
+		category-ja:昭和時代戦前の建築 ,
+		category-ja:明治時代の建築 ,
+		<http://ja.dbpedia.org/resource/Category:\u65E5\u672C\u306E\u56FD\u5B9D_(\u66F8\u8DE1\u30FB\u5178\u7C4D\u30FB\u53E4\u6587\u66F8)> ,
+		category-ja:東京国立博物館 ,
+		category-ja:国立文化財機構 ,
+		<http://ja.dbpedia.org/resource/Category:\u65E5\u672C\u306E\u56FD\u5B9D_(\u8003\u53E4\u30FB\u6B74\u53F2\u8CC7\u6599)> ,
+		category-ja:肉筆浮世絵 ,
+		category-ja:第41回BCS賞 ,
+		category-ja:東京都の重要文化財 ,
+		category-ja:上野恩賜公園 ,
+		<http://ja.dbpedia.org/resource/Category:\u65E5\u672C\u306E\u56FD\u5B9D_(\u7D75\u753B)> ,
+		category-ja:東京都の博物館 ,
+		category-ja:日本の国立博物館 ;
+	dbpedia-owl:wikiPageID	20031 ;
+	dbpedia-owl:wikiPageRevisionID	50188433 ;
+	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:久隅守景 ,
+		dbpedia-ja:日本美術名宝展 ,
+		dbpedia-ja:和洋折衷建築 ,
+		dbpedia-ja:正倉院 ,
+		dbpedia-ja:上野駅 ,
+		<http://ja.dbpedia.org/resource/1877\u5E74> ,
+		dbpedia-ja:東宮御所 ,
+		category-ja:江戸時代の建築 ,
+		dbpedia-ja:明眼院 ,
+		dbpedia-ja:伊万里焼 ,
+		dbpedia-ja:国立文化財機構 ,
+		dbpedia-ja:国宝 ,
+		dbpedia-ja:法隆寺献納宝物 ,
+		dbpedia-ja:恒久王妃昌子内親王 ,
+		dbpedia-ja:東宮 ,
+		dbpedia-ja:周文 ,
+		dbpedia-ja:扇面法華経冊子 ,
+		dbpedia-ja:九鬼隆一 ,
+		dbpedia-ja:小野道風 ,
+		<http://ja.dbpedia.org/resource/Category:\u65E5\u672C\u306E\u56FD\u5B9D_(\u5DE5\u82B8\u54C1)> ,
+		dbpedia-ja:文京区 ,
+		<http://ja.dbpedia.org/resource/1937\u5E74> ,
+		dbpedia-ja:宮内省 ,
+		<http://ja.dbpedia.org/resource/1932\u5E74> ,
+		dbpedia-ja:日本 ,
+		dbpedia-ja:文部省 ,
+		dbpedia-ja:重要文化財 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Katawaguruma-raden.jpg> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:TokyoNationalMuseum.jpg> ,
+		dbpedia-ja:餓鬼草紙 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Toyokan_of_Tokyo_National_Museum.jpg> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Heiseikan_of_Tokyo_National_Museum.jpg> ,
+		dbpedia-ja:大熊氏広 ,
+		<http://ja.dbpedia.org/resource/1952\u5E74> ,
+		<http://ja.dbpedia.org/resource/1947\u5E74> ,
+		dbpedia-ja:小竜景光 ,
+		dbpedia-ja:黒田清輝 ,
+		dbpedia-ja:京成上野駅 ,
+		dbpedia-ja:廃仏毀釈 ,
+		dbpedia-ja:平成 ,
+		category-ja:東京都の美術館 ,
+		dbpedia-ja:皇室 ,
+		dbpedia-ja:九州国立博物館 ,
+		dbpedia-ja:ウルビーノのヴィーナス ,
+		dbpedia-ja:狩野秀頼 ,
+		dbpedia-ja:松方幸次郎 ,
+		dbpedia-ja:帝冠様式 ,
+		dbpedia-ja:アーネスト・フェノロサ ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Tokyo_National_Museum,_Honkan_2010.jpg> ,
+		category-ja:昭和時代戦前の建築 ,
+		dbpedia-ja:渡辺仁 ,
+		dbpedia-ja:道中図 ,
+		dbpedia-ja:奈良国立博物館 ,
+		<http://ja.dbpedia.org/resource/1875\u5E74> ,
+		dbpedia-ja:大慧宗杲 ,
+		dbpedia-ja:岡倉天心 ,
+		dbpedia-ja:ミュージアムショップ ,
+		<http://ja.dbpedia.org/resource/1984\u5E74> ,
+		dbpedia-ja:法隆寺 ,
+		dbpedia-ja:地獄草紙 ,
+		dbpedia-ja:童子切 ,
+		dbpedia-ja:小倉武之助 ,
+		dbpedia-ja:タイ王国 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Kuroda_Memorial_Hall_2009.jpg> ,
+		dbpedia-ja:古社寺保存会 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Hyokeikan_of_Tokyo_National_Museum_2010.jpg> ,
+		dbpedia-ja:岡田信一郎 ,
+		dbpedia-ja:東京国立博物館所蔵文化財一覧 ,
+		dbpedia-ja:モナ・リザ ,
+		dbpedia-ja:小堀政一 ,
+		dbpedia-ja:美術品 ,
+		dbpedia-ja:正宗 ,
+		dbpedia-ja:藤原行成 ,
+		dbpedia-ja:中央アジア ,
+		dbpedia-ja:皇太子徳仁親王 ,
+		dbpedia-ja:本阿弥光悦 ,
+		category-ja:明治時代の建築 ,
+		dbpedia-ja:興福寺 ,
+		dbpedia-ja:町田久成 ,
+		dbpedia-ja:名古屋城 ,
+		dbpedia-ja:明治神宮 ,
+		dbpedia-ja:殖産興業 ,
+		dbpedia-ja:秋萩帖 ,
+		dbpedia-ja:東京都の観光地 ,
+		dbpedia-ja:正院 ,
+		dbpedia-ja:池大雅 ,
+		dbpedia-ja:狩野永徳 ,
+		dbpedia-ja:日本工芸会 ,
+		dbpedia-ja:無準師範 ,
+		dbpedia-ja:ツタンカーメン ,
+		dbpedia-ja:クメール ,
+		dbpedia-ja:受胎告知 ,
+		dbpedia-ja:明治 ,
+		dbpedia-ja:圜悟克勤 ,
+		dbpedia-ja:長谷川等伯 ,
+		dbpedia-ja:河村瑞賢 ,
+		dbpedia-ja:上野恩賜公園 ,
+		dbpedia-ja:鳥取藩 ,
+		dbpedia-ja:京成本線 ,
+		<http://ja.dbpedia.org/resource/1962\u5E74> ,
+		<http://ja.dbpedia.org/resource/1964\u5E74> ,
+		<http://ja.dbpedia.org/resource/1974\u5E74> ,
+		dbpedia-ja:太政官 ,
+		<http://ja.dbpedia.org/resource/Category:\u65E5\u672C\u306E\u56FD\u5B9D_(\u66F8\u8DE1\u30FB\u5178\u7C4D\u30FB\u53E4\u6587\u66F8)> ,
+		dbpedia-ja:ウィーン万国博覧会 ,
+		dbpedia-ja:大正天皇 ,
+		dbpedia-ja:帝室技芸員 ,
+		<http://ja.dbpedia.org/resource/1909\u5E74> ,
+		dbpedia-ja:馮子振 ,
+		dbpedia-ja:インド ,
+		dbpedia-ja:国立科学博物館 ,
+		dbpedia-ja:團伊能 ,
+		dbpedia-ja:東京地下鉄 ,
+		category-ja:肉筆浮世絵 ,
+		dbpedia-ja:京都国立博物館 ,
+		dbpedia-ja:国立博物館 ,
+		category-ja:国立文化財機構 ,
+		dbpedia-ja:東南アジア ,
+		<http://ja.dbpedia.org/resource/Category:\u65E5\u672C\u306E\u56FD\u5B9D_(\u8003\u53E4\u30FB\u6B74\u53F2\u8CC7\u6599)> ,
+		category-ja:東京国立博物館 ,
+		dbpedia-ja:博覧会 ,
+		dbpedia-ja:所沢市 ,
+		dbpedia-ja:尾形光琳 ,
+		dbpedia-ja:レオナルド・ダ・ヴィンチ ,
+		dbpedia-ja:雪舟 ,
+		dbpedia-ja:琉球 ,
+		<http://ja.dbpedia.org/resource/1900\u5E74> ,
+		<http://ja.dbpedia.org/resource/1938\u5E74> ,
+		dbpedia-ja:片山東熊 ,
+		dbpedia-ja:益田孝 ,
+		dbpedia-ja:鷹見泉石 ,
+		dbpedia-ja:ウジェーヌ・ドラクロワ ,
+		<http://ja.dbpedia.org/resource/1889\u5E74> ,
+		dbpedia-ja:円伊 ,
+		dbpedia-ja:四十八体仏 ,
+		dbpedia-ja:ジョサイア・コンドル ,
+		<http://ja.dbpedia.org/resource/1972\u5E74> ,
+		dbpedia-ja:禅林墨跡 ,
+		dbpedia-ja:東洋 ,
+		dbpedia-ja:松平直亮 ,
+		dbpedia-ja:狩野長信 ,
+		dbpedia-ja:台東区 ,
+		dbpedia-ja:渡辺崋山 ,
+		<http://ja.dbpedia.org/resource/1873\u5E74> ,
+		<http://ja.dbpedia.org/resource/1881\u5E74> ,
+		<http://ja.dbpedia.org/resource/1878\u5E74> ,
+		<http://ja.dbpedia.org/resource/1992\u5E74> ,
+		dbpedia-ja:ベトナム ,
+		dbpedia-ja:エジプト ,
+		<http://ja.dbpedia.org/resource/1886\u5E74> ,
+		dbpedia-ja:松永安左エ門 ,
+		<http://ja.dbpedia.org/resource/\u8FB2\u5546\u52D9\u7701_(\u65E5\u672C)> ,
+		dbpedia-ja:東京都 ,
+		dbpedia-ja:千代田区 ,
+		category-ja:第41回BCS賞 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Periodo_edo,_giara_per_foglie_di_te,_XVII_sec.JPG> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Periodo_jomon,_dogu,_2000-1000_a.c._3.JPG> ,
+		dbpedia-ja:関東大震災 ,
+		dbpedia-ja:寛永寺 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Horyuji_Homotsu-kan.jpg> ,
+		dbpedia-ja:昭和 ,
+		category-ja:東京都の重要文化財 ,
+		dbpedia-ja:高嶋菊次郎 ,
+		dbpedia-ja:富国強兵 ,
+		dbpedia-ja:民衆を導く自由の女神 ,
+		dbpedia-ja:谷口吉郎 ,
+		<http://ja.dbpedia.org/resource/1876\u5E74> ,
+		<http://ja.dbpedia.org/resource/1968\u5E74> ,
+		<http://ja.dbpedia.org/resource/1965\u5E74> ,
+		<http://ja.dbpedia.org/resource/2007\u5E74> ,
+		dbpedia-ja:アイヌ ,
+		dbpedia-ja:江田船山古墳 ,
+		dbpedia-ja:了庵清欲 ,
+		dbpedia-ja:美術館 ,
+		dbpedia-ja:ティツィアーノ・ヴェチェッリオ ,
+		dbpedia-ja:文禰麻呂 ,
+		dbpedia-ja:湯島聖堂 ,
+		category-ja:上野恩賜公園 ,
+		dbpedia-ja:安倍能成 ,
+		dbpedia-ja:国立民族学博物館 ,
+		dbpedia-ja:国立歴史民俗博物館 ,
+		<http://ja.dbpedia.org/resource/1872\u5E74> ,
+		dbpedia-ja:東久留米市 ,
+		dbpedia-ja:森鴎外 ,
+		dbpedia-ja:独立行政法人 ,
+		<http://ja.dbpedia.org/resource/\u5185\u52D9\u7701_(\u65E5\u672C)> ,
+		dbpedia-ja:朝鮮美術 ,
+		category-ja:東京都の博物館 ,
+		dbpedia-ja:谷口吉生 ,
+		<http://ja.dbpedia.org/resource/1999\u5E74> ,
+		dbpedia-ja:東京文化財研究所 ,
+		<http://ja.dbpedia.org/resource/1882\u5E74> ,
+		dbpedia-ja:元永本古今和歌集 ,
+		dbpedia-ja:大般若長光 ,
+		dbpedia-ja:博物館 ,
+		<http://ja.dbpedia.org/resource/Category:\u65E5\u672C\u306E\u56FD\u5B9D_(\u7D75\u753B)> ,
+		dbpedia-ja:一遍聖絵 ,
+		dbpedia-ja:松林図屏風 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Fugenbosatsu.jpg> ,
+		dbpedia-ja:広田松繁 ,
+		dbpedia-ja:三井高大 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Tokyo_Imperial_Household_Museum.JPG> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Front_Gate_of_Inshu_Ikeda\u0027s_Residence,_Tokyo.JPG> ,
+		dbpedia-ja:メソポタミア ,
+		dbpedia-ja:横河民輔 ,
+		dbpedia-ja:内国勧業博覧会 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Kokin_Wakashu_Genei.jpg> ,
+		dbpedia-ja:虚堂智愚 ,
+		category-ja:日本の国立博物館 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.tnm.jp/> ,
+		<http://taito-culture.jp/culture/index.html> ,
+		<http://allabout.co.jp/gm/gc/374631/> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia-ja:東京国立博物館	foaf:name	"TOKYO National Museum"@ja ,
+		"\u6771\u4EAC\u56FD\u7ACB\u535A\u7269\u9928"@ja ;
+	foaf:homepage	<http://www.tnm.jp/> .
+@prefix prop-ja:	<http://ja.dbpedia.org/property/> .
+dbpedia-ja:東京国立博物館	prop-ja:名称	"TOKYO National Museum"@ja ,
+		"\u6771\u4EAC\u56FD\u7ACB\u535A\u7269\u9928"@ja ;
+	prop-ja:画像	"\u672C\u9928"@ja ,
+		300 ;
+	prop-ja:緯度分	43 ;
+	prop-ja:経度分	46 .
+@prefix template-ja:	<http://ja.dbpedia.org/resource/Template:> .
+dbpedia-ja:東京国立博物館	prop-ja:wikiPageUsesTemplate	template-ja:博物館 ,
+		template-ja:Commons ,
+		template-ja:YouTube ,
+		template-ja:脚注ヘルプ ;
+	prop-ja:所在地	"\u6771\u4EAC\u90FD\u53F0\u6771\u533A\u4E0A\u91CE\u516C\u571213\u756A9\u53F7"@ja ;
+	prop-ja:所在地郵便番号	110 ;
+	<http://ja.dbpedia.org/property/n(\u5317\u7DEF)\u53CA\u3073s(\u5357\u7DEF)_>	"N"@ja ;
+	prop-ja:前身	"\u6587\u90E8\u7701\u535A\u7269\u9928\u3001\u5E1D\u5BA4\u535A\u7269\u9928"@ja ;
+	prop-ja:開館	1872 ;
+	prop-ja:管理運営	"\u72EC\u7ACB\u884C\u653F\u6CD5\u4EBA\u56FD\u7ACB\u6587\u5316\u8CA1\u6A5F\u69CB"@ja ;
+	prop-ja:url	<http://www.tnm.jp/> ;
+	prop-ja:緯度度	35 ;
+	prop-ja:経度度	139 ;
+	<http://ja.dbpedia.org/property/e(\u6771\u7D4C)\u53CA\u3073w(\u897F\u7D4C)_>	"E"@ja ;
+	prop-ja:経度秒	36 ;
+	prop-ja:専門分野	"\u65E5\u672C\u3068\u6771\u6D0B\u306E\u6587\u5316\u8CA1"@ja ;
+	prop-ja:地図国コード	"JP"@ja .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia-ja:東京国立博物館	prop-ja:緯度秒	8.6 ;
+	prop-ja:アクセス	"JR\u30FB\u6771\u4EAC\u30E1\u30C8\u30ED\u4E0A\u91CE\u99C5"@ja ,
+		"\u4EAC\u6210\u672C\u7DDA\u4EAC\u6210\u4E0A\u91CE\u99C5\u3088\u308A\u5F92\u6B69"@ja ;
+	prop-ja:建物設計	"\u8868\u6176\u9928 - \u7247\u5C71\u6771\u718A"@ja ,
+		"\u6CD5\u9686\u5BFA\u5B9D\u7269\u9928 - \u8C37\u53E3\u5409\u751F"@ja ,
+		"\u672C\u9928 - \u6E21\u8FBA\u4EC1"@ja ,
+		"\u6771\u6D0B\u9928 - \u8C37\u53E3\u5409\u90CE"@ja ,
+		"\u9ED2\u7530\u8A18\u5FF5\u9928 - \u5CA1\u7530\u4FE1\u4E00\u90CE"@ja ;
+	dbpedia-owl:director	dbpedia-ja:独立行政法人 ;
+	dbpedia-owl:location	dbpedia-ja:東京都 ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/a/a5/Tokyo_National_Museum,_Honkan_2010.jpg> ;
+	dbpedia-owl:postalCode	"110-8712"@ja .
+@prefix wiki-ja:	<http://ja.wikipedia.org/wiki/> .
+dbpedia-ja:東京国立博物館	foaf:isPrimaryTopicOf	wiki-ja:東京国立博物館 ;
+	dbpedia-owl:abstract	"\u6771\u4EAC\u56FD\u7ACB\u535A\u7269\u9928\uFF08\u3068\u3046\u304D\u3087\u3046\u3053\u304F\u308A\u3064\u306F\u304F\u3076\u3064\u304B\u3093\uFF09\u306F\u3001\u65E5\u672C\u3068\u6771\u6D0B\u306E\u6587\u5316\u8CA1\uFF08\u7F8E\u8853\u54C1\u3001\u8003\u53E4\u907A\u7269\u306A\u3069\uFF09\u306E\u53CE\u96C6\u4FDD\u7BA1\u3001\u5C55\u793A\u516C\u958B\u3001\u8ABF\u67FB\u7814\u7A76\u3001\u666E\u53CA\u306A\u3069\u3092\u76EE\u7684\u3068\u3057\u3066\u72EC\u7ACB\u884C\u653F\u6CD5\u4EBA\u56FD\u7ACB\u6587\u5316\u8CA1\u6A5F\u69CB\u304C\u904B\u55B6\u3059\u308B\u535A\u7269\u9928\u3067\u3042\u308B\u3002 1872\u5E74\uFF08\u660E\u6CBB5\u5E74\uFF09\u306B\u5275\u8A2D\u3055\u308C\u305F\u3001\u65E5\u672C\u6700\u53E4\u306E\u535A\u7269\u9928\u3067\u3042\u308B\u3002\u6771\u4EAC\u90FD\u53F0\u6771\u533A\u306E\u4E0A\u91CE\u6069\u8CDC\u516C\u5712\u5185\u306B\u3042\u308B\u3002\u672C\u9928\u3001\u8868\u6176\u9928\u3001 \u6771\u6D0B\u9928\u3001\u5E73\u6210\u9928\u3001\u6CD5\u9686\u5BFA\u5B9D\u7269\u9928\u306E5\u3064\u306E\u5C55\u793A\u9928\u3068\u8CC7\u6599\u9928\u305D\u306E\u4ED6\u306E\u65BD\u8A2D\u304B\u3089\u306A\u308B\u30022012\u5E743\u670831\u65E5\u6642\u70B9\u3067\u3001\u56FD\u5B9D87\u4EF6\u3001\u91CD\u8981\u6587\u5316\u8CA1631\u4EF6\u3092\u542B\u3080\u53CE\u8535\u54C1\u306E\u7DCF\u6570\u306F113,897\u4EF6\u3067\u3001\u3053\u308C\u3068\u306F\u5225\u306B\u3001\u56FD\u5B9D50\u4EF6\u3001\u91CD\u8981\u6587\u5316\u8CA1252\u4EF6\u3092\u542B\u3080\u7DCF\u65702,689\u4EF6\u306E\u5BC4\u8A17\u54C1\u3092\u53CE\u8535\u3057\u3066\u3044\u308B\u3002\u3053\u306E\u3046\u3061\u9673\u5217\u7DCF\u4EF6\u6570\u306F\u7D047,500\u4EF6\u3067\u3042\u308B\u30022011\u5E74\u5EA6\u306E\u6765\u9928\u8005\u6570\u306F\u7D04176\u4E07\u4EBA\u3002"@ja ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tokyo_National_Museum,_Honkan_2010.jpg/200px-Tokyo_National_Museum,_Honkan_2010.jpg> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia-ja:東京国立博物館	prov:wasDerivedFrom	<http://ja.wikipedia.org/wiki/\u6771\u4EAC\u56FD\u7ACB\u535A\u7269\u9928?oldid=50188433> .
+dbpedia-ja:文化庁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:アイヌ文化	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松本清張	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小早川秀秋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上野恩賜公園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:元寇	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:マオリ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:水樹奈々	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:町田久成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:葛飾北斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高岡市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国宝	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浅草寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東洲斎写楽	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:めぐりん	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:森鴎外	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:足利義稙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:太刀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:玄田哲章	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本刀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:重要文化財	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:細川氏	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:九条家	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:楠木正成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上杉氏	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:前田青邨	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:動物園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本の国旗	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:青木繁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:延喜式	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:陰流	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:古今和歌集	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本一の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:式神	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:四国中央市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鶴岡八幡宮	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:石田三成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:七星剣	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:丙子椒林剣	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野沢那智	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:若本規夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東村山市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大原さやか	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本建築学会賞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:椎名へきる	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:氷川女体神社	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:内幸町	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:埴輪	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:黒田清輝	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:与謝蕪村	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ジャグリング	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東宮御所	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小林古径	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長谷川等伯	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:平山郁夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野々村仁清	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:尾形光琳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:安田靫彦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:モナ・リザ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:本阿弥光悦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:永青文庫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松平定信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:堀絢子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮内省	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鞘	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:久遠寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:加藤清正	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:羽佐間道夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:横山大観	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:扇子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:魔神転生	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:正宗	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:興福寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:孔雀明王	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野元信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:円山応挙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:酒井抱一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:竹内栖鳳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:川端龍子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岸田劉生	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鷹狩	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野永徳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:池大雅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:富岡鉄斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:川合玉堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:下村観山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:喜多川歌麿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮川長春	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菱川師宣	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野山楽	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:海北友松	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野探幽	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:尾形乾山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:呉春	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:青木木米	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大元帥明王	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:神護寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:サントリー学芸賞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:秋篠寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:中宮寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:観心寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:原美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:一乗寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:運慶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:速水御舟	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浦上玉堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岩佐又兵衛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:雪村	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥居清長	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本初の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:伊藤若冲	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高山寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国立科学博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:京都国立博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国立博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:増上寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:池上本門寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:一遍	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:森久保祥太郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日韓問題	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野山雪	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:古川登志夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:湯島聖堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:飯塚昭三	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ポーラ美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:青岸渡寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:金剛輪寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岡寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:園城寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:近石真介	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小林清志	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小野道風	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:泊古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:無学祖元	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:青面金剛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鷹見泉石	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:森川智之	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:玉川砂記子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:普賢菩薩	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:バーンチエン遺跡	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:月岡芳年	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:瀬谷区	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:虚空蔵菩薩	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ジョサイア・コンドル	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:八部衆	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:モダニズム建築	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:善光寺式阿弥陀三尊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本刀一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:津和野町	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:谷口吉郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:漢委奴国王印	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:稲葉実	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土偶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u585A\u539F\u53E4\u58B3_(\u5FD7\u6469\u5E02)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:奈良国立博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岡田信一郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:昌平坂学問所	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:滋賀県出身の人物一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:根付	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ユリノキ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:伎楽面	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:槇大輔	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:後三年の役	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:銅鐸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:河鍋暁斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高村光雲	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ジョヴァンニ・バッティスタ・シドッティ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u7530\u5C3B\u753A_(\u5BAE\u57CE\u770C)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:蘭亭序	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:平野義和	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:伊万里焼	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ネオプレックス	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:敦煌文献	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u52A0\u85E4\u7CBE\u4E09_(\u58F0\u512A)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:琳派	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:窪田等	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:江南町	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上野戦争	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥獣人物戯画	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:有田焼	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浄瑠璃寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:美術館の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:井浦新	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:督姫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:帝国図書館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:明智秀満	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大英博物館図書室	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:弥勒菩薩半跏思惟像	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本美術史	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:清川元夢	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u897F\u5927\u5BFA_(\u5948\u826F\u5E02)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:古本説話集	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:堀田正敦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:九州国立博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菅生石部神社	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:剣幸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:片山東熊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:源頼朝	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:早雲寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:五浦海岸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大崎市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:建築設計競技	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松浦清	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:立原杏所	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:谷口吉生	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	prop-ja:significantBuildings	dbpedia-ja:東京国立博物館 ;
+	dbpedia-owl:significantBuilding	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:頂相	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:天ぷら	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歴史主義建築	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:田中信夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:文化財研究所	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:民衆を導く自由の女神	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川豊国	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西都原古墳群	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:寛永寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:教育施設	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:許由	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東京文化財研究所	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:絵因果経	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西条祭り	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:南蛮胴	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:破墨山水	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土崎神明社祭の曳山行事	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:明月記	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土佐光起	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大和絵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東京都立上野高等学校	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:渓斎英泉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:絵巻物	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:当世具足	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:童子切	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川春章	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:藤原行成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:帝冠様式	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:渡辺仁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高野切	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本民藝館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土崎港	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:豊乗寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:神宮徴古館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土佐光信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:加藤千蔭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:帝室博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:藤原惺窩	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:皆川淇園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:曼殊院	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:根岸朗	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:仏教絵画	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:徳川宗敬	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:書根麻呂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鹿児島神宮	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:照国神社	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:文覚	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:亜欧堂田善	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:北斗市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u5CA9\u6BBF\u5BFA_(\u7B51\u5317\u6751)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:徳川義宣	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:田能村竹田	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宸翰	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:明眼院	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:洛中洛外図	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ライトアップ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:安倍能成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松尾佳子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:周文	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:烏丸光広	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:谷文晁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:石井幹子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:荒戸源次郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:織田信愛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:稲荷塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大般若長光	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:聖衆来迎寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ハート形土偶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:奈良県立畝傍高等学校	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:備前長船兼光	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長船元重	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小竜景光	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:細川護立	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:平城遷都1300年記念事業	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:神奈川県指定文化財一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:山内清男	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:法政大学の人物一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本考古学会	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:三日月宗近	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:英一蝶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:古琴	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:新潟県指定文化財一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:金地院	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:青表紙本	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u6642\u3092\u304B\u3051\u308B\u5C11\u5973_(\u30A2\u30CB\u30E1\u6620\u753B)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:リーフデ号	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:神護寺三像	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:寒山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小見真観寺古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:増山正賢	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小川破笠	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鴻池組	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高千穂宣麿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u4E2D\u6751\u6B63_(\u58F0\u512A)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:米フツ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:牧谿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:徳川義寛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:直刀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上野出入口	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:烏帽子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:木村蒹葭堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:荻原碌山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小山富士夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浦上春琴	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松林桂月	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝常寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:内山永久寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:民芸運動	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菊池容斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:村山事件	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松方コレクション	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:谷川徹三	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高橋誠一郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u5742\u672C\u592A\u90CE_(\u6B74\u53F2\u5B66\u8005)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:馬遠	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:呉昌碩	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:彭城百川	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:子嶋寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u9577\u798F\u5BFA_(\u751F\u99D2\u5E02)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:三筆	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:星野長太郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:白根町	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:廬山寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:千葉寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:釧雲泉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:龍吟庵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/1990\u5E74\u4EE3\u306E\u5EFA\u7BC9>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西川寧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:眼蔵寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:隅田八幡神社	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:玄奘三蔵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ゴットフリード・ワグネル	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:新日本様式	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大峯山寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:江田船山古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:金石文	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:医心方	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:十時梅がい	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上杉謙信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:伊福吉部徳足比売	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:森狙仙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:源氏物語絵巻	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:渡辺玄対	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:箭田大塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:本間美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:神光院	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大村西崖	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:写経	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:事務次官等の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:加藤文麗	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:退耕庵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:福島県立図書館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:亀ヶ岡石器時代遺跡	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岸駒	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松林図屏風	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:町田久倍	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大森立嗣	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:甲斐銚子塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:天秤棒	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	prop-ja:caption	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:星野やすし	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:楽常慶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:花代	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:趙孟フ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u30AD\u30F3\u30B0\u30C0\u30E0_(\u6F2B\u753B)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上野直昭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:地図記号の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西園寺公衡	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:董其昌	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西川祐信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国立文化財機構	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本美術刀剣保存協会	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:康円	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川国貞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:開基勝宝	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松岡寿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:安綱	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:莫是龍	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:妙義神社	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:千野香織	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:京都市立堀川高等学校	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:名誉館員	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大丸山古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥居清信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:徳川義知	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u9AD8\u5C3E\u5C71_(\u5927\u962A\u5E9C)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本の国宝一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u5E73\u7B49\u5BFA_(\u4EAC\u90FD\u5E02\u4E0B\u4EAC\u533A)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高嶺秀夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:粟田口吉光	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:王フツ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:風神雷神図	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:塩野半十郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:黄昏サラウンド	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鰐口	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u91D1\u525B\u5BFA_(\u4E80\u5CA1\u5E02)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:櫻井孝宏	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:柳瀬荘	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:真福寺貝塚	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:保科百助	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u9E7F\u9CF4\u9928_(\u622F\u66F2)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野口小蘋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:源氏物語大成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小林忠	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鍋島焼	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:品川主計	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:霊雲寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:埼玉県の記念物	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:寒山寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:秋山光和	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:九鬼隆一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:柏尾山経塚	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:尾形月耕	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:平木信二	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小松茂美	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:石川千代松	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ヘリテージング100選	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:向嶽寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:独立性易	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:吉岡徳仁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u6765\u8FCE\u9662_(\u4EAC\u90FD\u5E02\u5DE6\u4EAC\u533A)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:福岡県立修猷館高等学校の人物一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:別本	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:紙背文書	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:賈行	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:織部焼	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ダンワラ古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:金銀錯嵌珠龍紋鉄鏡	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:イスラム美術	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浜村蔵六	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:麻紙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日仏関係	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:奥州後三年記	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鉄舟寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u7345\u5B50\u738B_(\u5200)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西川杏太郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大包平	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ツヘイティア・パキ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:川上冬崖	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:秋田大学教育文化学部附属中学校	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:林十江	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:山本勉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u8B77\u56FD\u9662_(\u53F0\u6771\u533A)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:一塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本の書道史	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:藤原定信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:似絵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国沢新九郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高蔵遺跡	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥居原狐塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西本願寺本三十六人家集	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:関根雲停	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:陣太刀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:弘仁式	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:文化遺産保護制度	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:銭谷真美	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:来派	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:佐麻多度神社	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:月岡雪鼎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:時枝務	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:品川寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:新藤五国光	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:根岸武香	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:更紗	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:栄螺鬼	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:吉備大臣入唐絵巻	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長光	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:雲谷等顔	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u7BE4\u59EB_(NHK\u5927\u6CB3\u30C9\u30E9\u30DE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:李公麟	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:截金	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:貞宗	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:光忠	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:景光	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:中川俊二	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:真土大塚山古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:和泉黄金塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大日本沿海輿地全図	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:洞院実熙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:久隅守景	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:正岡子規記念球場	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:院政期文化	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:因幡万葉歴史館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:白沢保美	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土佐光則	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鈴木其一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:佐藤康宏	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:扇面法華経冊子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:懐月堂安度	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:袋法師絵詞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東京国立博物館所蔵文化財一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:脇侍	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本美術名宝展	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:多田親愛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥居清倍	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小柴垣草紙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:三色紙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東山御物	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:瑜伽寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大山寺縁起	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:風信帖	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野典信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:蝦蟇仙人	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:清水六兵衛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:韓藍花歌切	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:佐藤貫一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:谷信一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:道中図	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:阿須賀神社	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:学校法人慶應義塾	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:諸国百物語	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:豊原国周	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本工芸会	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:百鬼夜行絵巻	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:清明上河図	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:地獄草紙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:中国の筆跡一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:申文	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:幸野楳嶺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野養信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:京狩野	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:福岡一文字	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東京都の観光地	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:佐竹本三十六歌仙絵巻	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:古備前派	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:井内慶次郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野尚信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:吉田耕三	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:佐藤禎一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:自在置物	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:新沢千塚古墳群	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:拾得	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西郷孤月	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:重蔵神社	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:椎名へきる_みたいラジオ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:柴田是真	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:法隆寺献納宝物	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:沈南蘋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:熊代熊斐	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:清水寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:中尊寺金色堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:秋田県出身の人物一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:黒川亀玉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:したまちコメディ映画祭in台東	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東北院	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:良全	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:関東地方にある建造物の重要文化財一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:AT_RANDOM	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長谷川路可	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:樽屋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:深川富岡八幡葵太鼓	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宋紫石	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長崎派	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:河村若芝	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:唐絵目利	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:蜷川式胤	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野常信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u4E0A\u91CE\u90F5\u4FBF\u5C40_(\u6771\u4EAC\u90FD)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:安藤仲太郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:金鈴塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:横山松三郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:奥原晴湖	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松永安左エ門	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:七支刀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:礒田湖龍斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:杉村治兵衛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:懐月堂度繁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:木喰観音堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:團伊能	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:一楽亭栄水	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:新納忠之介	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:住吉如慶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:辟邪絵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:飯島本源氏物語	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:病草紙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:Google_ストリートビュー	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥居清重	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歴女	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:仏女	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:速水堅曹	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:住吉具慶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:祥啓	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u738B\u585A\u53E4\u58B3_(\u5C71\u68A8\u770C)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:美術学校騒動	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川春英	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浅草文庫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:九条塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:渡辺始興	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土佐光茂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:一貫斎栄尚	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:琢斎栄玉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:弄春斎栄江	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥卜斎栄意	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:一掬斎栄文	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮島新一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:広瀬重信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:栄松斎長喜	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:窪俊満	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥高斎栄昌	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小倉柳村	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:北尾重政	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:北尾政美	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川春好	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:喜多川雪麿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:水野廬朝	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:寛永諸家系図伝	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮川一笑	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川豊広	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u559C\u591A\u5DDD\u6B4C\u9EBF_(2\u4EE3\u76EE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:北村哲郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菱川宗理	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:孫君沢	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:川村清雄	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:河内本源氏物語校異集成	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:葛飾応為	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:七十一番職人歌合	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土佐光吉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岸田麗子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:法隆寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥園斎栄深	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:葛堂栄隆	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鄭燮	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:徐渭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:喜多川月麿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:古山師政	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥居清広	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u6B4C\u5DDD\u5E83\u91CD_(3\u4EE3\u76EE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:田村水鷗	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:可翁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:黙庵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:懐月堂度辰	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:懐月堂度種	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菊川英山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:蹄斎北馬	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:柳川重信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高橋健自	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:アート・ドキュメンテーション学会	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:今村紫紅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:酔月斎栄雅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:川又常正	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:職人歌合	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥囀斎栄寿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:桃源斎栄舟	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:水龍剣	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:喜多川藤麿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u718A\u91CE\u795E\u793E_(\u65ED\u5E02)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長陽堂安知	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:山崎龍女	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮川長亀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松野親信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮川春水	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川豊春	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:魚屋北渓	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:祇園井特	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:奥村政信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:酔夢亭蕉鹿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西村重長	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川春山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:柳々居辰斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:牧墨僊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:石川豊信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:川又常行	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東艶斎花翁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:西川祐尹	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:小林永濯	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:川枝豊信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上柿芳龍	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:月岡雪斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥羽広丸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岡田玉山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:楊洲周延	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川貞景	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:滝沢重信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川国長	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鶏塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菊川百花	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川豊清	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:毛抜形太刀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u5E73\u6E05\u76DB_(NHK\u5927\u6CB3\u30C9\u30E9\u30DE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:本間順治	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川春亭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:渡辺幽香	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菱川師平	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:奥村利信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮川正幸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東川堂里風	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:蔀関月	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:梅祐軒勝信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:至信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:羽川藤永	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:喜多川式麿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:喜多川秀麿	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:空明堂信之	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:近藤勝信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川芳虎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川国丸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:文浪	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥居清政	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川春暁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:田中益信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥文斎栄之	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:葛飾北一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:葛飾北雲	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:雲戴子斗雷	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:礫川亭素潾	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川国明	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川国久	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:月岡耕漁	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:藤原祐寛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岩佐勝重	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川輝重	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:源氏物語における写本記号	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川貞秀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:水野年方	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:懐月堂度秀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川春扇	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鳥橋斎栄里	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:保坂本源氏物語	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川国虎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:歌川国直	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:稲垣つる女	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮川春信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:新家孝正	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u9CE5\u5C45\u6E05\u5143_(2\u4EE3\u76EE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u6B4C\u5DDD\u8C4A\u56FD_(4\u4EE3\u76EE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菊川英信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:寿香亭吉信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:肉筆浮世絵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:帝国博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:森玉僊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:沼田月斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:永楽屋細辻伊兵衛商店	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:桜に関連する作品一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:藤野寄命	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岡本秋暉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:恋川春政	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:梶田半古	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:寺崎広業	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ルネッサンスタワー上野池之端	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野一信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:貨狄尊者	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u8F2A\u738B\u5BFA_(\u53F0\u6771\u533A)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:光信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:杉山二郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:古田亮	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:源氏物語の巻序	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:海老名和明	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u5824\u7B49\u7433_(3\u4EE3\u76EE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:蟠龍軒	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:姜暁艶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岡田譲	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:谷田忠兵衛	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:円山応瑞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野栄信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国宝絵画の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ぶらぶら美術・博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:海北塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ヘボソ塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:村越其栄	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野興以	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:弘憲寺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:山本守礼	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鎌倉文化	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:源氏物語の写本の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:パフラヴィー文字	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:横山華山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:吉川霊華	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/1930\u5E74\u4EE3\u306E\u5EFA\u7BC9>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:柴田義董	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:海北友雪	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野間清六	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:秋山光夫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:嘉門安雄	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u539F\u7530\u5B9F_(\u7F8E\u8853\u53F2)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:林屋晴三	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:近藤市太郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:陰里鉄郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u6A0B\u53E3\u79C0\u96C4_(\u6B74\u53F2\u5BB6)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長谷部楽爾	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:浜田隆	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:坂本満	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:堀江知彦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u845B\u98FE\u5317\u658E_(2\u4EE3\u76EE)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:霊彩	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:吉野光	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:渡辺省亭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岸竹堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鈴木長吉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:俵屋宗雪	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:餓鬼草紙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:田中一松	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:吉沢忠	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松下隆章	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:奥平英雄	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鎌原正巳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:田辺三郎助	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:金子啓明	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:駒井美信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:勝川春里	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:遠山龍雲斎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:沖一峨	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松下久吉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:山名貫義	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:妻木頼矩	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:無準師範	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:酒井鶯蒲	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:柳井茶臼山古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:康俊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:濤川惣助	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:八雲御抄	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:一遍聖絵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:清閑亭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u7BC9\u5C71\u53E4\u58B3_(\u702C\u6238\u5185\u5E02)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:秋田市立港北小学校	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東大寺続要録	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:Turn_Off_The_Light	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土方稲嶺	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:杉村勇造	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:田村宗立	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:禅林墨跡	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:山元春挙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u982D\u8133\u306E\u796D\u5178!\u30AF\u30A4\u30BA\u6700\u5F37\u738B\u8005\u6C7A\u5B9A\u6226!!\u301C\u30EF\u30FC\u30EB\u30C9\u30FB\u30AF\u30A4\u30BA\u30FB\u30AF\u30E9\u30B7\u30C3\u30AF\u301C>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:並河靖之	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:善慶	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:荒井寛方	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:今尾景年	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:望月玉泉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:紅嫌い	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野永納	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野宗秀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:塔塚古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:探検バクモン	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野口幽谷	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:清原雪信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:前賢故実	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岸連山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野友信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長谷川久蔵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:重命	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長谷川左近	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:曽我直庵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ベゼクリク千仏洞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野長信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:最も入場された美術館の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:平沢屏山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野村文挙	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:片山良庵	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野雅楽助	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:狩野貞信	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:平木浮世絵美術館_UKIYO-e_TOKYO	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:菅井梅関	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:巻子本古今和歌集	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u4F4F\u5409\u5EE3\u884C_(\u7D75\u5E2B)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:前田富士男	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:喜多川相説	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岡山市半田山植物園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:文清	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:目切遺跡	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:大久保純一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東アジアカップ2013	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:元永本古今和歌集	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:四十八体仏	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:啓孫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:神歌抄	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ガールズトーク〜十人のシスターたち〜	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:安住院	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:斉藤巻石	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:香紙切	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:秋萩帖	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:山辺知行	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:根本莞爾	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:十巻本歌合	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鬼束ちひろ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:備崎経塚	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本の染織工芸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:岩波写真文庫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:中谷美紀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:貫地谷しほり	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:後愚昧記	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:国立	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	dbpedia-owl:wikiPageDisambiguates	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:赤堀茶臼山古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:TNM	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:総社二子山古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:前橋天神山古墳	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/\u56FD\u7ACB\u535A\u7269\u9928_(\u66D6\u6627\u3055\u56DE\u907F)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	dbpedia-owl:wikiPageDisambiguates	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東京博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	dbpedia-owl:wikiPageDisambiguates	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/4\u670817\u65E5>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/1\u670827\u65E5>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/5\u670816\u65E5>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東京帝室博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	dbpedia-owl:wikiPageRedirects	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ジョー・プライス	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/resource/3\u670810\u65E5_(\u65E7\u66A6)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:無垢行騰	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:上野博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	dbpedia-owl:wikiPageRedirects	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:桃山文化	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:文部省博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	dbpedia-owl:wikiPageRedirects	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:東博	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 ;
+	dbpedia-owl:wikiPageRedirects	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高嶋菊次郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:今田美奈子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:愛光商会	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:森口華弘	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:塵袋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:森徹山	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:八幡一郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:村重寧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:宮次男	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:白川万紗子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:紫式部日記絵巻	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野原古墳群	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:植水古墳群	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:便利堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:松沢荘	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:赤羽刀	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:鞍掛純一	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+wiki-ja:東京国立博物館	foaf:primaryTopic	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:興福寺の仏像	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:高欲生	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:ナイン・メンズ・モリス	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:仏女新聞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:土佐一得	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:日本の博物館の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:野口正章	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:下唐子古墳群	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:富士山-信仰の対象と芸術の源泉	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:柏崎古墳群	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:酒飯論絵巻	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+dbpedia-ja:長恨歌絵巻	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:東京国立博物館 .
+<http://ja.dbpedia.org/data/\u6771\u4EAC\u56FD\u7ACB\u535A\u7269\u9928.n3>	rdf:type	foaf:Document ;
+	foaf:primaryTopic	dbpedia-ja:東京国立博物館 .
