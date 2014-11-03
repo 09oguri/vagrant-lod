@@ -1,4 +1,3 @@
-﻿execute "apt-get update"
-package "openjdk-7-jdk" do
+﻿package "openjdk-7-jdk" do
     action :install
 end

@@ -1,4 +1,3 @@
-﻿execute "apt-get update"
-package "git" do
+﻿package "git" do
     action :install
 end
