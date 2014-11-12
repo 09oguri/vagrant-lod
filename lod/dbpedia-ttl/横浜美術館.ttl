@@ -1,0 +1,238 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbpedia-ja:ゴジラ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜みなとみらい21	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:桜木町駅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ゴシック・アンド・ロリータ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:丹下健三	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbpedia-ja:横浜美術館	rdf:type	schema:Museum ,
+		dbpedia-owl:Museum ,
+		dbpedia-owl:ArchitecturalStructure .
+@prefix ns4:	<http://www.opengis.net/gml/> .
+dbpedia-ja:横浜美術館	rdf:type	ns4:_Feature ,
+		dbpedia-owl:Place .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia-ja:横浜美術館	rdf:type	owl:Thing ,
+		schema:Place .
+@prefix ns6:	<http://dbpedia.org/ontology/Wikidata:> .
+dbpedia-ja:横浜美術館	rdf:type	ns6:Q532 ,
+		dbpedia-owl:Building .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia-ja:横浜美術館	rdfs:label	"\u6A2A\u6D5C\u7F8E\u8853\u9928"@ja ;
+	rdfs:comment	"\u6A2A\u6D5C\u7F8E\u8853\u9928\uFF08\u3088\u3053\u306F\u307E\u3073\u3058\u3085\u3064\u304B\u3093\uFF09\u306F\u3001\u6A2A\u6D5C\u5E02\u307F\u306A\u3068\u307F\u3089\u3044\u5730\u533A\uFF0836\u8857\u533A\uFF09\u306B\u3042\u308B\u7F8E\u8853\u9928\u3002"@ja .
+@prefix ns8:	<http://www.wikipediaontology.org/instance/> .
+dbpedia-ja:横浜美術館	owl:sameAs	ns8:横浜美術館 .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia-ja:横浜美術館	owl:sameAs	dbpedia:Yokohama_Museum_of_Art .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbpedia-ja:横浜美術館	owl:sameAs	dbpedia-ko:요코하마_미술관 .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category-ja:	<http://ja.dbpedia.org/resource/Category:> .
+dbpedia-ja:横浜美術館	dcterms:subject	category-ja:神奈川県の美術館 ,
+		category-ja:横浜みなとみらい21 ,
+		<http://ja.dbpedia.org/resource/Category:\u897F\u533A_(\u6A2A\u6D5C\u5E02)> ,
+		<http://ja.dbpedia.org/resource/Category:1989\u5E74\u7AE3\u5DE5\u306E\u5EFA\u7BC9\u7269> ,
+		category-ja:横浜市の博物館 ;
+	dbpedia-owl:wikiPageID	17562 ;
+	dbpedia-owl:wikiPageRevisionID	50289118 ;
+	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:文化の日 ,
+		dbpedia-ja:東日本旅客鉄道 ,
+		dbpedia-ja:森美術館 ,
+		<http://ja.dbpedia.org/resource/1989\u5E74> ,
+		<http://ja.dbpedia.org/resource/\u30B4\u30B8\u30E9_(\u67B6\u7A7A\u306E\u602A\u7363)> ,
+		dbpedia-ja:近代美術 ,
+		category-ja:横浜みなとみらい21 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Yokohama_Museum_interior.jpg> ,
+		<http://ja.dbpedia.org/resource/\u897F\u533A_(\u6A2A\u6D5C\u5E02)> ,
+		dbpedia-ja:横浜市 ,
+		<http://ja.dbpedia.org/resource/Category:\u897F\u533A_(\u6A2A\u6D5C\u5E02)> ,
+		dbpedia-ja:美術館 ,
+		<http://ja.dbpedia.org/resource/Category:1989\u5E74\u7AE3\u5DE5\u306E\u5EFA\u7BC9\u7269> ,
+		dbpedia-ja:フォルクスワーゲン ,
+		dbpedia-ja:横浜みなとみらい21 ,
+		dbpedia-ja:写真 ,
+		dbpedia-ja:丹下健三 ,
+		dbpedia-ja:横浜高速鉄道みなとみらい21線 ,
+		<http://ja.dbpedia.org/resource/\u30E2\u30B9\u30E9_(\u67B6\u7A7A\u306E\u602A\u7363)> ,
+		dbpedia-ja:神奈川県 ,
+		dbpedia-ja:横浜市営バス ,
+		dbpedia-ja:みなとみらい駅 ,
+		dbpedia-ja:横浜博覧会 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30A4\u30EB:Yokohama_Museum_of_Art_2009.jpg> ,
+		dbpedia-ja:現代美術 ,
+		dbpedia-ja:ゴジラvsモスラ ,
+		dbpedia-ja:グランモール公園 ,
+		dbpedia-ja:MARK_IS_みなとみらい ,
+		dbpedia-ja:桜木町駅 ,
+		dbpedia-ja:工芸 ,
+		dbpedia-ja:みなとみらい ,
+		category-ja:神奈川県の美術館 ,
+		category-ja:横浜市の博物館 ,
+		dbpedia-ja:横浜市営地下鉄 ,
+		dbpedia-ja:美術 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.yaf.or.jp/yma/> ,
+		<http://www.yaf.or.jp/> ,
+		<http://www.yaf.or.jp/yma/about_yma/H20gyoumu.pdf> ,
+		<http://www.city.yokohama.jp/me/reiki/honbun/g2021219001.html> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia-ja:横浜美術館	foaf:name	"\u6A2A\u6D5C\u7F8E\u8853\u9928Yokohama Museum Of Art"@ja ;
+	foaf:nick	"\u30E8\u30B3\u30D3"@ja .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbpedia-ja:横浜美術館	georss:point	"35.457116666666664 139.63067222222222"@ja ;
+	foaf:homepage	<http://www.yaf.or.jp/yma/> .
+@prefix prop-ja:	<http://ja.dbpedia.org/property/> .
+dbpedia-ja:横浜美術館	prop-ja:名称	"\u6A2A\u6D5C\u7F8E\u8853\u9928Yokohama Museum Of Art"@ja ;
+	prop-ja:画像	300 .
+@prefix ns16:	<http://dbpedia.org/datatype/> .
+dbpedia-ja:横浜美術館	prop-ja:延床面積	"26829.0"^^ns16:squareMetre ;
+	prop-ja:愛称	"\u30E8\u30B3\u30D3"@ja ;
+	prop-ja:緯度分	27 ;
+	prop-ja:経度分	37 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbpedia-ja:横浜美術館	geo:lat	"35.4571"^^xsd:float .
+@prefix template-ja:	<http://ja.dbpedia.org/resource/Template:> .
+dbpedia-ja:横浜美術館	prop-ja:wikiPageUsesTemplate	template-ja:脚注ヘルプ ,
+		template-ja:Commonscat ,
+		template-ja:Art-museum-stub ,
+		template-ja:Yokohama_Minatomirai21 ,
+		template-ja:博物館 ,
+		template-ja:Reflist ,
+		template-ja:Pathnav ;
+	prop-ja:所在地	"\u795E\u5948\u5DDD\u770C\u6A2A\u6D5C\u5E02\u897F\u533A\u307F\u306A\u3068\u307F\u3089\u30443-4-1"@ja ;
+	prop-ja:所在地郵便番号	220 ;
+	prop-ja:前身	dbpedia-ja:横浜博覧会 ;
+	prop-ja:n	35 ;
+	prop-ja:開館	"--11-03"^^xsd:gMonthDay ;
+	prop-ja:収蔵作品数	"\u7F8E\u8853\u4F5C\u54C1\u7D041\u4E07\u70B9\uFF08\u3046\u3061\u5199\u771F\u7D044200\u70B9\uFF09\u3001\u8535\u66F8\u7D0410\u4E07\u518A"@ja ;
+	prop-ja:年運営費	823119888 ;
+	geo:long	"139.631"^^xsd:float ;
+	prop-ja:管理運営	<http://www.yaf.or.jp/> ;
+	prop-ja:url	<http://www.yaf.or.jp/yma/> ;
+	prop-ja:経度秒	50.42 ;
+	prop-ja:専門分野	dbpedia-ja:写真 ,
+		dbpedia-ja:現代美術 ,
+		dbpedia-ja:工芸 ,
+		dbpedia-ja:近代美術 ;
+	prop-ja:事業主体	"\u6A2A\u6D5C\u5E02"@ja ;
+	prop-ja:研究職員	"\u6307\u5C0E\u54E17\u4EBA\u3001\u53F8\u66F83\u4EBA"@ja ;
+	prop-ja:e	139 ;
+	prop-ja:来館者数	770310 ;
+	prop-ja:学芸員	12 ;
+	prop-ja:画像説明	"\u6B63\u9762\u5E83\u5834\u304B\u30892\u968E\u306E\u30E1\u30A4\u30F3\u30D5\u30ED\u30A2\u306B\u30A2\u30D7\u30ED\u30FC\u30C1\u3059\u308B\u3002"@ja ;
+	prop-ja:緯度秒	25.62 ;
+	prop-ja:館長	"--04-01"^^xsd:gMonthDay ;
+	prop-ja:アクセス	"[[#\u6240\u5728\u5730\u30FB\u4EA4\u901A]]\u53C2\u7167"@ja ;
+	prop-ja:mapSize	250 ;
+	prop-ja:建物設計	"\u4E39\u4E0B\u5065\u4E09\u90FD\u5E02\u5EFA\u8A2D\u8A2D\u8A08\u4E8B\u52D9\u6240"@ja ;
+	dbpedia-owl:curator	dbpedia-ja:森美術館 ;
+	dbpedia-owl:location	dbpedia-ja:神奈川県 ;
+	dbpedia-owl:collection	"\u7F8E\u8853\u4F5C\u54C1\u7D041\u4E07\u70B9\uFF08\u3046\u3061\u5199\u771F\u7D044200\u70B9\uFF09\u3001\u8535\u66F8\u7D0410\u4E07\u518A"@ja ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/c/ce/Yokohama_Museum_of_Art_2009.jpg> ;
+	dbpedia-owl:numberOfVisitors	770310 ;
+	dbpedia-owl:postalCode	"220-0012"@ja ;
+	dbpedia-owl:type	dbpedia-ja:近代美術 ;
+	dbpedia-owl:operatedBy	dbpedia-ja:横浜市 .
+@prefix wiki-ja:	<http://ja.wikipedia.org/wiki/> .
+dbpedia-ja:横浜美術館	foaf:isPrimaryTopicOf	wiki-ja:横浜美術館 ;
+	dbpedia-owl:abstract	"\u6A2A\u6D5C\u7F8E\u8853\u9928\uFF08\u3088\u3053\u306F\u307E\u3073\u3058\u3085\u3064\u304B\u3093\uFF09\u306F\u3001\u6A2A\u6D5C\u5E02\u307F\u306A\u3068\u307F\u3089\u3044\u5730\u533A\uFF0836\u8857\u533A\uFF09\u306B\u3042\u308B\u7F8E\u8853\u9928\u3002"@ja ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Yokohama_Museum_of_Art_2009.jpg/200px-Yokohama_Museum_of_Art_2009.jpg> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia-ja:横浜美術館	prov:wasDerivedFrom	<http://ja.wikipedia.org/wiki/\u6A2A\u6D5C\u7F8E\u8853\u9928?oldid=50289118> .
+dbpedia-ja:ルネ・マグリット	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:日本テレビ放送網	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+<http://ja.dbpedia.org/resource/\u897F\u533A_(\u6A2A\u6D5C\u5E02)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜ランドマークタワー	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:みなとみらい駅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:茶漬け	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ポール・デルヴォー	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:守谷市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:安田靫彦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜信用金庫	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:茂木健一郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:水谷豊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜博覧会	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:片岡球子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:安井賞	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:美術館の一覧	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:遠藤彰子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:中藤敦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:浅葉克己	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:恩地孝四郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:束芋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜市営バス浅間町営業所	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:岡部昌幸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:チャルトリスキ美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜トリエンナーレ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:平木収	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:三重県立美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ベイライナー水戸・横浜号	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:村上賢司	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:神奈川県立神奈川工業高等学校	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:黒川晃彦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:みなとみらい出入口	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:中平卓馬	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜市	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:プーシキン美術館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:石井柏亭	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:長谷川潔	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜市の歴史	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:新井卓	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:松井冬子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:新宮晋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:約束のカケラ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:小島烏水	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:臨港幹線道路	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ゲルダ・タロー	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:清水登之	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:奈良美智	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+<http://ja.dbpedia.org/resource/\u592A\u7530\u4E09\u90CE_(\u82B8\u8853\u5BB6)>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜能楽堂	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:団塚栄喜	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:三菱重工横浜ビル	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:平川典俊	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜焼	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:小倉柳村	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:沼田宏行	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:テルマエ・ロマエ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:今村紫紅	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:小茂田青樹	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:原久子	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:渡辺幽香	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:みなとみらいセンタービル	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:佐野ぬい	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ピュ〜ぴる	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:梶田半古	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:中島多茂都	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ヨコハマカーニバル	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:深井仁美	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ぶらぶら美術・博物館	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:エミール・オルリック	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:東日本大震災のイベント等への影響	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:陰里鉄郎	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:クリストフ・シャルル	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:小林敬生	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+<http://ja.dbpedia.org/resource/1989\u5E74\u306E\u9244\u9053>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:第62回NHK紅白歌合戦	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ヘレン・ハイド	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:倉石信乃	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ジャック＝アンドレ・ボワファール	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:石渡江逸	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:チャールズ・ウィリアム・バートレット	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ポール・ジャクレー	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:フリッツ・カペラリ	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ピーター・アーヴィン・ブラウン	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:グランモール公園	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:リー・ミラー	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:塩谷定好	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:ALC	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:MARK_IS_みなとみらい	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:横浜市芸術文化振興財団	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:鰭崎英朋	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+dbpedia-ja:古平正義	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+wiki-ja:横浜美術館	foaf:primaryTopic	dbpedia-ja:横浜美術館 .
+<http://ja.dbpedia.org/resource/\u30B9\u30C3\u30AD\u30EA!!\u306E\u30B3\u30FC\u30CA\u30FC\u4E00\u89A7>	dbpedia-owl:wikiPageWikiLink	dbpedia-ja:横浜美術館 .
+<http://ja.dbpedia.org/data/\u6A2A\u6D5C\u7F8E\u8853\u9928.n3>	rdf:type	foaf:Document ;
+	foaf:primaryTopic	dbpedia-ja:横浜美術館 .
